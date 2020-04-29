@@ -1,1 +1,0 @@
-[![Build Status](https://travis-ci.com/sshiray/cse110-lab-5.svg?token=RmNuyLyM8WUs1eqx93ph&branch=master)](https://travis-ci.com/sshiray/cse110-lab-5)
